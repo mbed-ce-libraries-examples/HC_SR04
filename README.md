@@ -41,8 +41,8 @@ int main()
 }
 ```
 ## Description
+https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 
-//TODO
 
 ### Status:
 This library was tested (02/2024) with Nucleo-F446RE, HC_SR04 sensor, VS-Code under Win11, GCC 12.3 and MbedCE library
